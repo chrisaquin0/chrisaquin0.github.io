@@ -1,10 +1,10 @@
-# Hello World
+# Christopher Aquino's Portfoio
 
-This is my home page! My name is Christopher Aqiomp and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science .
+This is my home page! My name is Christopher Aquino and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/chrisaquin0.
 
 ### CPSC 120
 
