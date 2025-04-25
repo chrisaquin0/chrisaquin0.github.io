@@ -6,7 +6,7 @@ This is my home page! My name is Christopher Aquino and I am a student at [Cal S
 
 My GitHub page is http://github.com/chrisaquin0.
 
-### CPSC 120
+### CPSC 120 Favorite Labs
 
 * Lab 10
 
